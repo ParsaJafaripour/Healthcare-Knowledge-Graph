@@ -1,0 +1,1 @@
+23986001 |Glaucoma (disorder)| === 371405004 |Disorder of eye proper (disorder)| : { 363698007 |Finding site (attribute)| = 81745001 |Structure of eye proper (body structure)| }

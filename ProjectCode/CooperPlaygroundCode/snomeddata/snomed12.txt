@@ -1,0 +1,1 @@
+786910006 |Substance with vascular endothelial growth factor receptor antagonist mechanism of action (substance)|=== 771382006 |Substance with receptor antagonist mechanism of action (substance)| : 726542003 |Has disposition (attribute)| = 786911005 |Vascular endothelial growth factor receptor antagonist (disposition)|

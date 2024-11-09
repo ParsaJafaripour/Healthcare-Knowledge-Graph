@@ -1,0 +1,1 @@
+33810006 |Injection of eye proper (procedure)|=== 408758007 |Injection of eye region (procedure)| + 118897002 |Procedure on eye proper (procedure)| : { 260686004 |Method (attribute)| = 129326001 |Injection - action (qualifier value)|, 405814001 |Procedure site - Indirect (attribute)| = 81745001 |Structure of eye proper (body structure)| }

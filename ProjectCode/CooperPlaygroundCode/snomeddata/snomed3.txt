@@ -1,0 +1,1 @@
+4855003 |Retinopathy due to diabetes mellitus (disorder)|=== 25093002 |Disorder of eye due to diabetes mellitus (disorder)| + 29555009 |Retinal disorder (disorder)| : { 363698007 |Finding site (attribute)| = 5665001 |Retinal structure (body structure)| } { 42752001 |Due to (attribute)| = 73211009 |Diabetes mellitus (disorder)| }

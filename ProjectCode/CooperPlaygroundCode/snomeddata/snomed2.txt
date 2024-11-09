@@ -1,0 +1,1 @@
+267718000 |Age-related macular degeneration (disorder)|<<< 422338006 |Degenerative disorder of macula (disorder)| : { 363698007 |Finding site (attribute)| = 82859000 |Macula lutea structure (body structure)|, 116676008 |Associated morphology (attribute)| = 107669003 |Degenerative abnormality (morphologic abnormality)| }
